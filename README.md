@@ -1,4 +1,4 @@
-# Swift-programar-para-iOS-Semana-Dos
+# Swift programar para iOS Semana Dos
 
 
 Programa un playground que evalúe un rango de números en base a 4 reglas de impresión.
