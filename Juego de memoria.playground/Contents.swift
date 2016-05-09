@@ -3,8 +3,9 @@
 import UIKit
 
 var numeroDivisible = 5;
+var rango = 0...100
 
-for indice in 0 ... 100 {
+for indice in rango {
 
     //Un numero no puede ser divisible ente Cero se discrimina y se calcula el modulo de 5
     if (indice > 0 && indice % numeroDivisible == 0){
